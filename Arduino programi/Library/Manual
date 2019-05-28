@@ -1,0 +1,6 @@
+Always use .zip folder which contains .h and .cpp files !!!!!!!!!!!!!!!
+
+1. to delete library go to Library folder which is for Ubuntu: /Home/sketchbook/Libraries   (uporabnik, ne root)
+
+2. to add library, create folder in Library directory (Ubuntu: /Home/sketchbook/Libraries (uporabnik, ne root) ) and unzip in it .zip that you get on internet.
+be sure that in this .zip folder are .h and .cpp files
