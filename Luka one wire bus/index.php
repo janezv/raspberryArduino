@@ -15,8 +15,8 @@
 <?php
 
 $servername = "localhost";
-$username = "root";
-$password = "slovenskasmer";
+$username = "un";
+$password = "p1";
 $dbname = "db1";
 
 
